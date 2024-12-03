@@ -81,6 +81,6 @@ f. The depot d1 is deleted from Depot and Stock.
 
 If you have any questions or feedback, feel free to contact me at:
 
-Email: nisargavgowda15@gmail.com
+Email: tejakusireddy23@gmail.com
 
-GitHub: Nisarga15
+GitHub: tejakusireddy
