@@ -125,7 +125,7 @@ conn.autocommit = False  # ensure explicit transaction control
 
 ---
 
-## Transaction Flows (Mermaid)
+## Transaction Flows
 
 ### System Pipeline
 ```mermaid
